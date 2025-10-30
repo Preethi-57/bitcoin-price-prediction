@@ -19,7 +19,7 @@ The script automatically engineers extra features like:
 - Date-based features (day, month, year, day_of_week)
 
 #  Steps to Run
-1. Place your dataset as `data/bitcoin_dataset.csv`.
+1. Place your dataset as `Dataset.csv`.
 2. Install dependencies:
    
    pip install -r requirements.txt
